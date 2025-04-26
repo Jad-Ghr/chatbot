@@ -1,0 +1,1090 @@
+{
+  "games": [
+    {
+      "game": "The Legend of Zelda: Ocarina of Time",
+      "levels": [
+        {
+          "title": "Inside the Deku Tree",
+          "description": "Your first dungeon inside the guardian spirit of the Kokiri Forest. You must navigate through its hollowed interior, solving puzzles and defeating enemies.",
+          "objective": "Destroy the parasitic curse inside the Deku Tree by defeating Queen Gohma.",
+          "strategy": "Use your newly acquired slingshot to stun Queen Gohma and attack her eye when it's red."
+        },
+        {
+          "title": "Inside the Deku Tree",
+          "description": "A mysterious forest dungeon inhabited by monsters and puzzles.",
+          "objective": "Find and eliminate the monster corrupting the tree.",
+          "strategy": "Use your newly acquired slingshot to stun Queen Gohma and attack her eye when it's red."
+        },
+        {
+          "title": "Inside the Deku Tree",
+          "description": "The first challenge takes place inside a massive ancient tree. It's filled with traps, enemies, and brain-teasing puzzles that test your courage.",
+          "objective": "Locate and defeat the creature responsible for the curse inside the tree to bring peace to the Kokiri Forest.",
+          "strategy": "Use your newly acquired slingshot to stun Queen Gohma and attack her eye when it's red."
+        },
+        {
+          "title": "Dodongo's Cavern",
+          "description": "A lava-filled cavern infested with Dodongos, where Goron food supplies are being blocked by dangerous creatures.",
+          "objective": "Defeat King Dodongo and restore access to the Goron's food supply.",
+          "strategy": "Use bombs to destroy obstacles and throw them into King Dodongo's mouth when he opens it to attack."
+        },{
+          "title": "Dodongo's Cavern",
+          "description": "A perilous volcanic cave filled with explosive Dodongos, preventing the Gorons from accessing vital food supplies.",
+          "objective": "Defeat King Dodongo to open the path and help the Gorons regain their food supply.",
+          "strategy": "Use bombs to destroy obstacles and throw them into King Dodongo's mouth when he opens it to attack."
+        },
+        {
+          "title": "Dodongo's Cavern",
+          "description": "A hot, lava-laden underground lair teeming with Dodongos, blocking the Gorons from accessing their food reserves.",
+          "objective": "Eliminate King Dodongo to restore the Goron's food chain and remove the threat.",
+          "strategy": "Use bombs to destroy obstacles and throw them into King Dodongo's mouth when he opens it to attack."
+        },
+        {
+          "title": "Dodongo's Cavern",
+          "description": "A treacherous cavern filled with lava and Dodongos, where the Gorons' food supply is blocked.",
+          "objective": "Defeat King Dodongo to restore the Goron's food supply.",
+          "strategy": "Use bombs to destroy obstacles and throw them into King Dodongo's mouth when he opens it to attack."
+        }
+      ]
+    },
+    {
+      "game": "Dark Souls",
+      "levels": [
+        {
+          "title": "Undead Burg",
+          "description": "A ruined medieval town filled with aggressive Hollow soldiers and treacherous ledges.",
+          "objective": "Defeat the Taurus Demon and unlock access to the Undead Parish.",
+          "strategy": "Use the towers to drop attack the Taurus Demon and dodge its heavy swings."
+        },{
+          "title": "Undead Burg",
+          "description": "An ancient, crumbling town filled with hostile Hollow warriors and perilous ledges that require caution.",
+          "objective": "Defeat the Taurus Demon to gain entry to the Undead Parish.",
+          "strategy": "Use the towers to drop attack the Taurus Demon and dodge its heavy swings."
+        },
+        {
+          "title": "Undead Burg",
+          "description": "A dark, medieval town filled with undead enemies and treacherous paths.",
+          "objective": "Defeat the Taurus Demon to progress to the Undead Parish.",
+          "strategy": "Use the towers to drop attack the Taurus Demon and dodge its heavy swings."
+        },      
+        {
+          "title": "Anor Londo",
+          "description": "A grand but eerie city guarded by powerful Silver Knights and the infamous Ornstein and Smough.",
+          "objective": "Defeat Dragonslayer Ornstein and Executioner Smough to obtain the Lordvessel.",
+          "strategy": "Focus on taking down one boss first to avoid being overwhelmed; Ornstein is easier to fight alone."
+        },
+        {
+          "title": "Anor Londo",
+          "description": "A majestic yet haunting city filled with powerful Silver Knights and the infamous duo of Ornstein and Smough.",
+          "objective": "Defeat Dragonslayer Ornstein and Executioner Smough to obtain the Lordvessel.",
+          "strategy": "Focus on taking down one boss first to avoid being overwhelmed; Ornstein is easier to fight alone."
+        },
+        {
+          "title": "Anor Londo",
+          "description": "A grand, gothic city filled with powerful Silver Knights and the infamous duo of Ornstein and Smough.",
+          "objective": "Defeat Dragonslayer Ornstein and Executioner Smough to obtain the Lordvessel.",
+          "strategy": "Focus on taking down one boss first to avoid being overwhelmed; Ornstein is easier to fight alone."
+        }
+      ]
+    },
+    {
+      "game": "Resident Evil 4",
+      "levels": [
+        {
+          "title": "The Village",
+          "description": "Leon arrives in a remote European village, only to be ambushed by violent villagers.",
+          "objective": "Survive the village attack until the church bell rings.",
+          "strategy": "Barricade doors and use choke points to manage the horde. Aim for headshots and follow up with melee attacks."
+        },{
+          "title": "The Village",
+          "description": "Leon enters a secluded European village, only to face an onslaught of violent villagers attacking him.",
+          "objective": "Survive the attack from the villagers until the church bell rings to signal safety.",
+          "strategy": "Barricade doors and use choke points to manage the horde. Aim for headshots and follow up with melee attacks."
+        },
+        {
+          "title": "The Village",
+          "description": "Upon arrival in a quiet European village, Leon is ambushed by an angry mob of hostile villagers.",
+          "objective": "Hold your ground and survive the ambush until the church bell tolls for help.",
+          "strategy": "Barricade doors and use choke points to manage the horde. Aim for headshots and follow up with melee attacks."
+        },                
+        {
+          "title": "The Castle",
+          "description": "A massive fortress filled with cultists, deadly traps, and the fearsome Verdugo.",
+          "objective": "Navigate through the castle and rescue Ashley.",
+          "strategy": "Use the environment to your advantage, conserve ammo, and be wary of ambushes from cultists."
+        },{
+          "title": "The Castle",
+          "description": "A grand fortress teeming with cultists, deadly traps, and the terrifying Verdugo stalking the halls.",
+          "objective": "Make your way through the castle and rescue Ashley from her captors.",
+          "strategy": "Use the environment to your advantage, conserve ammo, and be wary of ambushes from cultists."
+        },
+        {
+          "title": "The Castle",
+          "description": "A towering fortress brimming with dangerous cultists, hazardous traps, and the menacing Verdugo lurking within.",
+          "objective": "Fight your way through the castle and save Ashley from the clutches of her enemies.",
+          "strategy": "Use the environment to your advantage, conserve ammo, and be wary of ambushes from cultists."
+        }       
+      ]
+    },
+    {
+      "game": "The Legend of Zelda: Ocarina of Time",
+      "levels": [
+      {
+          "title": "Inside the Deku Tree",
+          "description": "Your first dungeon inside the guardian spirit of the Kokiri Forest. You must navigate through its hollowed interior, solving puzzles and defeating enemies.",
+          "objective": "Destroy the parasitic curse inside the Deku Tree by defeating Queen Gohma.",
+          "strategy": "Use your newly acquired slingshot to stun Queen Gohma and attack her eye when it's red."
+      },{
+        "title": "Inside the Deku Tree",
+        "description": "Your first challenge inside the heart of the Kokiri Forest, a massive tree guarded by spirits. Navigate through its winding paths while solving puzzles and facing enemies.",
+        "objective": "Destroy the curse that plagues the Deku Tree by defeating Queen Gohma.",
+        "strategy": "Use your newly acquired slingshot to stun Queen Gohma and attack her eye when it's red."
+      },{
+        "title": "Inside the Deku Tree",
+        "description": "Explore the depths of the Deku Tree, the guardian spirit of Kokiri Forest. Solve puzzles and defeat enemies to progress through its hollow interior.",
+        "objective": "Defeat Queen Gohma to break the parasitic curse plaguing the Deku Tree.",
+        "strategy": "Use your newly acquired slingshot to stun Queen Gohma and attack her eye when it's red."
+      },            
+      {
+          "title": "Dodongo's Cavern",
+          "description": "A lava-filled cavern infested with Dodongos, where Goron food supplies are being blocked by dangerous creatures.",
+          "objective": "Defeat King Dodongo and restore access to the Goron's food supply.",
+          "strategy": "Use bombs to destroy obstacles and throw them into King Dodongo's mouth when he opens it to attack."
+      },{
+        "title": "Dodongo's Cavern",
+        "description": "A perilous volcanic cave filled with explosive Dodongos, preventing the Gorons from accessing vital food supplies.",
+        "objective": "Defeat King Dodongo to open the path and help the Gorons regain their food supply.",
+        "strategy": "Use bombs to destroy obstacles and throw them into King Dodongo's mouth when he opens it to attack."
+      },{
+        "title": "Dodongo's Cavern",
+        "description": "A hot, lava-laden underground lair teeming with Dodongos, blocking the Gorons from accessing their food reserves.",
+        "objective": "Eliminate King Dodongo to restore the Goron's food chain and remove the threat.",
+        "strategy": "Use bombs to destroy obstacles and throw them into King Dodongo's mouth when he opens it to attack."
+      }
+      ]
+    },{
+      "game": "The Legend of Zelda: Breath of the Wild",
+      "levels": [
+          {
+              "title": "Great Plateau",
+              "description": "The starting area where Link awakens and learns about the world after a century of slumber.",
+              "objective": "Activate the four Shrines and obtain the Paraglider.",
+              "strategy": "Use your Sheikah Slate to solve puzzles in each Shrine and gather resources for survival."
+          },
+          {
+              "title": "Hyrule Field",
+              "description": "A vast open area filled with enemies, shrines, and the ruins of Hyrule.",
+              "objective": "Explore the area, gather resources, and defeat enemies to prepare for the journey ahead.",
+              "strategy": "Use stealth to avoid stronger enemies, gather materials for cooking, and complete Shrines for Spirit Orbs."
+          },
+          {
+              "title": "Gerudo Desert",
+              "description": "A vast desert region with extreme temperatures and powerful enemies.",
+              "objective": "Find the Gerudo Town and uncover the secrets of the Gerudo tribe.",
+              "strategy": "Use heat-resistant elixirs, navigate sandstorms, and be cautious of enemy camps."
+          },
+          {
+              "title": "Zora's Domain",
+              "description": "A beautiful, water-themed area inhabited by the Zora tribe.",
+              "objective": "Help the Zora and defeat the Waterblight Ganon.",
+              "strategy": "Use ice arrows to freeze water and create platforms, and be prepared for a challenging boss fight."
+          },
+          {
+              "title": "Death Mountain",
+              "description": "A volcanic region filled with fire and lava hazards, home to the Goron tribe.",
+              "objective": "Defeat Fireblight Ganon and save the Gorons.",
+              "strategy": "Use heat-resistant armor, avoid lava pits, and utilize bombs against enemies."
+          },
+          {
+              "title": "Hyrule Castle",
+              "description": "The final area where Link confronts Calamity Ganon and uncovers the history of Hyrule.",
+              "objective": "Defeat Calamity Ganon and save Princess Zelda.",
+              "strategy": "Prepare with powerful weapons, use elemental attacks against Ganon, and utilize the environment for cover."
+          }
+      ]
+    },
+    {
+      "game": "Dark Souls",
+      "levels": [
+          {
+              "title": "Undead Burg",
+              "description": "A ruined medieval town filled with aggressive Hollow soldiers and treacherous ledges.",
+              "objective": "Defeat the Taurus Demon and unlock access to the Undead Parish.",
+              "strategy": "Use the towers to drop attack the Taurus Demon and dodge its heavy swings."
+          },
+          {
+              "title": "Undead Burg",
+              "description": "An ancient, crumbling town filled with hostile Hollow warriors and perilous ledges that require caution.",
+              "objective": "Defeat the Taurus Demon to gain entry to the Undead Parish.",
+              "strategy": "Use the towers to drop attack the Taurus Demon and dodge its heavy swings."
+          },
+          {
+              "title": "Undead Burg",
+              "description": "A dark, medieval town filled with undead enemies and treacherous paths.",
+              "objective": "Defeat the Taurus Demon to progress to the Undead Parish.",
+              "strategy": "Use the towers to drop attack the Taurus Demon and dodge its heavy swings."
+          },
+          {
+              "title": "Anor Londo",
+              "description": "A grand but eerie city guarded by powerful Silver Knights and the infamous Ornstein and Smough.",
+              "objective": "Defeat Dragonslayer Ornstein and Executioner Smough to obtain the Lordvessel.",
+              "strategy": "Focus on taking down one boss first to avoid being overwhelmed; Ornstein is easier to fight alone."
+          },
+          {
+              "title": "Anor Londo",
+              "description": "A majestic yet haunting city filled with powerful Silver Knights and the infamous duo of Ornstein and Smough.",
+              "objective": "Defeat Dragonslayer Ornstein and Executioner Smough to obtain the Lordvessel.",
+              "strategy": "Focus on taking down one boss first to avoid being overwhelmed; Ornstein is easier to fight alone."
+          },
+          {
+              "title": "Anor Londo",
+              "description": "A grand, gothic city filled with powerful Silver Knights and the infamous duo of Ornstein and Smough.",
+              "objective": "Defeat Dragonslayer Ornstein and Executioner Smough to obtain the Lordvessel.",
+              "strategy": "Focus on taking down one boss first to avoid being overwhelmed; Ornstein is easier to fight alone."
+          }
+      ]
+    },
+    {
+      "game": "Resident Evil 4",
+      "levels": [
+          {
+              "title": "The Village",
+              "description": "Leon arrives in a remote European village, only to be ambushed by violent villagers.",
+              "objective": "Survive the village attack until the church bell rings.",
+              "strategy": "Barricade doors and use choke points to manage the horde. Aim for headshots and follow up with melee attacks."
+          },{
+            "title": "The Village",
+            "description": "Leon enters a secluded European village, only to find himself surrounded by aggressive villagers who ambush him.",
+            "objective": "Survive the village's onslaught until the church bell rings to signal the end of the attack.",
+            "strategy": "Barricade doors and use choke points to manage the horde. Aim for headshots and follow up with melee attacks."
+          },
+          {
+            "title": "The Village",
+            "description": "Upon reaching a remote European village, Leon is ambushed by a violent group of villagers intent on his destruction.",
+            "objective": "Hold out against the villagers' attack until the church bell tolls to signal the arrival of help.",
+            "strategy": "Barricade doors and use choke points to manage the horde. Aim for headshots and follow up with melee attacks."
+          },          
+          {
+              "title": "The Castle",
+              "description": "A massive fortress filled with cultists, deadly traps, and the fearsome Verdugo.",
+              "objective": "Navigate through the castle and rescue Ashley.",
+              "strategy": "Use the environment to your advantage, conserve ammo, and be wary of ambushes from cultists."
+          },{
+            "title": "The Castle",
+            "description": "A sprawling fortress, infested with dangerous cultists, deadly traps, and the terrifying Verdugo lurking in the shadows.",
+            "objective": "Fight your way through the castle's defenses and rescue Ashley from her captors.",
+            "strategy": "Use the environment to your advantage, conserve ammo, and be wary of ambushes from cultists."
+          },{
+            "title": "The Castle",
+            "description": "An enormous fortress brimming with deadly cultists, hazardous traps, and the fearsome Verdugo hunting you down.",
+            "objective": "Make your way through the castle and free Ashley from the clutches of the cultists.",
+            "strategy": "Use the environment to your advantage, conserve ammo, and be wary of ambushes from cultists."
+          } 
+      ]
+    },
+    {
+      "game": "Halo: Combat Evolved",
+      "levels": [
+          {
+              "title": "The Silent Cartographer",
+              "description": "A large-scale beach assault on a Covenant-controlled island.",
+              "objective": "Find and unlock the map room to locate the Control Room of Halo.",
+              "strategy": "Use grenades to clear groups of enemies, and take advantage of vehicles for mobility and firepower."
+          },
+          {
+            "title": "The Silent Cartographer",
+            "description": "A large-scale assault on a beach, where you face off against the Covenant on their controlled island.",
+            "objective": "Locate and unlock the map room to gain access to the Control Room of Halo.",
+            "strategy": "Use grenades to clear groups of enemies, and take advantage of vehicles for mobility and firepower."
+          },{
+            "title": "The Silent Cartographer",
+            "description": "A beach assault on a Covenant-held island, where you must overcome enemy forces and obstacles.",
+            "objective": "Find the map room and unlock it to locate the Control Room on Halo.",
+            "strategy": "Use grenades to clear groups of enemies, and take advantage of vehicles for mobility and firepower."
+          },               
+          {
+              "title": "The Library",
+              "description": "A claustrophobic and repetitive level filled with relentless Flood enemies.",
+              "objective": "Escort 343 Guilty Spark and reach the Index.",
+              "strategy": "Use shotguns and grenades to deal with swarms of Flood, and keep moving to avoid getting overwhelmed."
+          },{
+            "title": "The Library",
+            "description": "A cramped, repetitive level teeming with relentless Flood enemies that swarm you from all directions.",
+            "objective": "Escort 343 Guilty Spark to the Index and reach your goal while fighting off the Flood.",
+            "strategy": "Use shotguns and grenades to deal with swarms of Flood, and keep moving to avoid getting overwhelmed."
+          },{
+            "title": "The Library",
+            "description": "A tight, repetitive environment filled with the overwhelming and relentless Flood enemies, testing your endurance.",
+            "objective": "Guide 343 Guilty Spark to the Index and navigate through the Flood's constant attacks.",
+            "strategy": "Use shotguns and grenades to deal with swarms of Flood, and keep moving to avoid getting overwhelmed."
+          }
+          
+          
+      ]
+    },
+    {
+      "game": "Super Mario 64",
+      "levels": [
+          {
+              "title": "Bob-omb Battlefield",
+              "description": "A wide-open battlefield filled with rolling cannonballs, floating islands, and King Bob-omb.",
+              "objective": "Defeat King Bob-omb at the mountain top and collect the Power Star.",
+              "strategy": "Run behind King Bob-omb and throw him three times while avoiding the edge of the platform."
+          },{
+            "title": "Bob-omb Battlefield",
+            "description": "A vast battlefield filled with cannonballs rolling across the ground, floating islands, and the imposing King Bob-omb.",
+            "objective": "Climb to the mountaintop and defeat King Bob-omb to collect the Power Star.",
+            "strategy": "Run behind King Bob-omb and throw him three times while avoiding the edge of the platform."
+          },{
+            "title": "Bob-omb Battlefield",
+            "description": "A large open field where rolling cannonballs and floating platforms challenge you as you face King Bob-omb at the summit.",
+            "objective": "Defeat King Bob-omb at the top of the mountain and grab the Power Star.",
+            "strategy": "Run behind King Bob-omb and throw him three times while avoiding the edge of the platform."
+          },
+          {
+              "title": "Cool, Cool Mountain",
+              "description": "A slippery, icy mountain with a giant snowman and a difficult slide challenge.",
+              "objective": "Find the lost baby penguin and return it to its mother.",
+              "strategy": "Carefully navigate the icy terrain, avoid falling off cliffs, and use the slide to reach areas quickly."
+          },
+          {
+            "title": "Cool, Cool Mountain",
+            "description": "A slippery, snowy mountain filled with a giant snowman and a treacherous slide that tests your precision.",
+            "objective": "Find the lost baby penguin and return it to its worried mother.",
+            "strategy": "Carefully navigate the icy terrain, avoid falling off cliffs, and use the slide to reach areas quickly."
+          },
+          {
+            "title": "Cool, Cool Mountain",
+            "description": "A frigid, icy mountain where you must tackle a giant snowman and conquer a perilous slide challenge.",
+            "objective": "Return the lost baby penguin to its mother on the icy mountain.",
+            "strategy": "Carefully navigate the icy terrain, avoid falling off cliffs, and use the slide to reach areas quickly."
+          }          
+          
+      ]
+    },
+    {
+      "game": "Metal Gear Solid",
+      "levels": [
+          {
+              "title": "Shadow Moses Dock",
+              "description": "The infiltration point of the mission, where Snake sneaks past guards to enter the base.",
+              "objective": "Avoid detection and find a way into the main facility.",
+              "strategy": "Stay in the shadows, use vents to bypass guards, and avoid making noise on metal floors."
+          },{
+            "title": "Shadow Moses Dock",
+            "description": "The starting point of the mission, where Snake must sneak past patrolling guards to infiltrate the enemy base.",
+            "objective": "Avoid being seen and find a way to enter the main facility without alerting anyone.",
+            "strategy": "Stay in the shadows, use vents to bypass guards, and avoid making noise on metal floors."
+          },{
+            "title": "Shadow Moses Dock",
+            "description": "The first challenge of the infiltration, where Snake must evade guards and silently infiltrate the base.",
+            "objective": "Find a way into the main facility without being detected by the patrolling guards.",
+            "strategy": "Stay in the shadows, use vents to bypass guards, and avoid making noise on metal floors."
+          },                    
+          {
+              "title": "Sniper Wolf Showdown",
+              "description": "A tense sniper battle in the snow against one of Foxhound's deadliest members.",
+              "objective": "Defeat Sniper Wolf without exposing yourself too much.",
+              "strategy": "Use cover effectively, take your time to aim, and rely on diazepam to steady your shots."
+          },{
+            "title": "Sniper Wolf Showdown",
+            "description": "A high-stakes sniper duel in the snowy landscape against one of Foxhound's most deadly assassins.",
+            "objective": "Outsmart and defeat Sniper Wolf while minimizing your exposure.",
+            "strategy": "Use cover effectively, take your time to aim, and rely on diazepam to steady your shots."
+          },{
+            "title": "Sniper Wolf Showdown",
+            "description": "A dangerous sniper battle in a snow-covered arena against Sniper Wolf, a skilled and lethal Foxhound member.",
+            "objective": "Defeat Sniper Wolf without leaving yourself vulnerable to her deadly shots.",
+            "strategy": "Use cover effectively, take your time to aim, and rely on diazepam to steady your shots."
+          }
+                    
+      ]
+    },
+    {
+      "game": "The Elder Scrolls V: Skyrim",
+      "levels": [
+        
+          {
+              "title": "Bleak Falls Barrow",
+              "description": "An ancient Nordic tomb filled with undead Draugr and mysterious carvings.",
+              "objective": "Retrieve the Dragonstone and learn the first Word of Power.",
+              "strategy": "Use fire-based attacks against Draugr, solve the pillar puzzle, and be prepared for a boss fight at the end."
+          },
+          {
+              "title": "Bleak Falls Barrow",
+              "description": "An eerie tomb with Draugr enemies and ancient Nordic carvings.",
+              "objective": "Find the Dragonstone and unlock the first Word of Power.",
+              "strategy": "Use fire spells to defeat Draugr, solve the pillar puzzle, and prepare for the boss fight at the end."
+          },
+          {
+              "title": "Bleak Falls Barrow",
+              "description": "A long-forgotten tomb, home to Draugr and cryptic carvings.",
+              "objective": "Retrieve the Dragonstone and unlock your first Thu'um word.",
+              "strategy": "Use fire magic against Draugr, solve the intricate puzzles, and defeat the final boss at the tomb's end."
+          },
+          {
+              "title": "The Throat of the World",
+              "description": "The highest peak in Skyrim, where the Dragonborn meets the ancient dragon Paarthurnax.",
+              "objective": "Learn the full power of the Thu'um and prepare for the final battle.",
+              "strategy": "Listen to Paarthurnax's wisdom, complete the training, and use Dragonrend to combat Alduin."
+          },
+          {
+              "title": "The Throat of the World",
+              "description": "The tallest mountain in Skyrim, where the Dragonborn meets Paarthurnax, the ancient dragon.",
+              "objective": "Master the Thu'um and prepare for the ultimate battle.",
+              "strategy": "Hear Paarthurnax's teachings, complete the training, and use Dragonrend to defeat Alduin."
+          },
+          {
+              "title": "The Throat of the World",
+              "description": "Skyrim's highest peak, where the Dragonborn learns from Paarthurnax and prepares to face Alduin.",
+              "objective": "Unlock the full potential of the Thu'um and confront Alduin.",
+              "strategy": "Complete Paarthurnax's training, learn the powerful shout, and use Dragonrend to defeat Alduin."
+          }
+      
+      
+      ]
+    },
+    {
+      "game": "Bioshock",
+      "levels": [
+        
+          {
+              "title": "Welcome to Rapture",
+              "description": "The eerie introduction to the underwater city, filled with Splicers and dark secrets.",
+              "objective": "Find a weapon and make your way to safety while learning about Rapture.",
+              "strategy": "Use the wrench for silent takedowns, search bodies for supplies, and conserve ammo for later."
+          },
+          {
+              "title": "Welcome to Rapture",
+              "description": "The unsettling entry into the submerged city, full of lurking Splicers and hidden dangers.",
+              "objective": "Locate a weapon and escape while uncovering the mysteries of Rapture.",
+              "strategy": "Silent takedowns with the wrench, scavenge bodies for supplies, and save ammo for tougher enemies."
+          },
+          {
+              "title": "Welcome to Rapture",
+              "description": "The eerie introduction to a crumbling underwater city, teeming with Splicers and dark secrets.",
+              "objective": "Find a weapon and navigate through Rapture’s dangerous streets to safety.",
+              "strategy": "Use the wrench to silently take down enemies, loot bodies for ammunition, and be mindful of scarce resources."
+          },
+          {
+              "title": "Fort Frolic",
+              "description": "A twisted, neon-lit district ruled by the mad artist Sander Cohen.",
+              "objective": "Survive Cohen’s games and photograph his victims to progress.",
+              "strategy": "Use traps to control enemy movement, hack security turrets, and be prepared for sudden ambushes."
+          },
+          {
+              "title": "Fort Frolic",
+              "description": "A dark, neon-filled district under the rule of the unstable artist Sander Cohen.",
+              "objective": "Survive the twisted games of Cohen and capture photos of his victims to continue.",
+              "strategy": "Set traps to control enemy movement, hack nearby turrets, and watch out for unexpected attacks."
+          },
+          {
+              "title": "Fort Frolic",
+              "description": "A vibrant yet warped district dominated by the insane artist Sander Cohen, filled with strange exhibits and madness.",
+              "objective": "Outlast Cohen’s deadly games and photograph his victims to advance.",
+              "strategy": "Set traps to control your enemies, hack security turrets for support, and be ready for ambushes around every corner."
+          }
+      
+      
+      ]
+    },
+    {
+      "game": "Doom (2016)",
+      "levels": [
+        
+          {
+              "title": "The UAC",
+              "description": "The opening level of Doom, where you wake up in a hell-infested research facility.",
+              "objective": "Clear the area of demons and reactivate the base's security systems.",
+              "strategy": "Keep moving, use melee finishers for health, and switch weapons frequently to adapt to enemies."
+          },
+          {
+              "title": "The UAC",
+              "description": "The first level of Doom, where you awaken in a facility overrun with hellish demons and chaos.",
+              "objective": "Eliminate all demons and restore security systems to regain control of the base.",
+              "strategy": "Stay mobile, use finishing moves to recover health, and quickly cycle through weapons to handle various enemies."
+          },
+          {
+              "title": "The UAC",
+              "description": "The introductory level of Doom, where you find yourself in a research base taken over by demonic forces.",
+              "objective": "Clear the demons from the base and reactivate security to begin your assault.",
+              "strategy": "Constant movement is key, use melee kills to restore health, and adapt your weapon choice for each enemy type."
+          },
+          {
+              "title": "Kadingir Sanctum",
+              "description": "A brutal hellscape filled with ancient ruins and relentless waves of demons.",
+              "objective": "Defeat the Hell Priests and push deeper into Hell.",
+              "strategy": "Use the Gauss Cannon for precision shots, exploit vertical movement, and save ammo for tougher enemies."
+          },
+          {
+              "title": "Kadingir Sanctum",
+              "description": "A vicious hellish landscape filled with old ruins and unyielding demonic forces.",
+              "objective": "Defeat the Hell Priests to gain access to deeper parts of Hell.",
+              "strategy": "Use the Gauss Cannon for headshots, make use of vertical combat opportunities, and conserve ammunition for the hardest foes."
+          },
+          {
+              "title": "Kadingir Sanctum",
+              "description": "A harsh, infernal environment full of ancient ruins and wave after wave of demons.",
+              "objective": "Defeat the Hell Priests and continue your journey deeper into the heart of Hell.",
+              "strategy": "Use the Gauss Cannon for long-range precision, navigate the vertical spaces, and ration your ammo for high-priority targets."
+          }
+      
+      
+      ]
+    },
+    {
+      "game": "Half-Life 2",
+      "levels": [
+        
+          {
+              "title": "Route Kanal",
+              "description": "Gordon Freeman escapes City 17 through the underground canal system while being pursued by Combine forces.",
+              "objective": "Reach Black Mesa East and avoid Combine patrols.",
+              "strategy": "Use cover to avoid gunfire, take out turrets strategically, and use the airboat for fast escapes."
+          },
+          {
+              "title": "Route Kanal",
+              "description": "Gordon Freeman makes his way through the underground canals, trying to escape the Combine forces on his tail.",
+              "objective": "Navigate the canals and reach Black Mesa East without getting caught by the Combine.",
+              "strategy": "Hide behind cover to avoid gunfire, destroy turrets when possible, and use the airboat to speed past obstacles."
+          },
+          {
+              "title": "Route Kanal",
+              "description": "In a desperate attempt to escape City 17, Gordon Freeman makes his way through the canal system, pursued by Combine forces.",
+              "objective": "Make your way to Black Mesa East, evading all Combine patrols along the way.",
+              "strategy": "Use cover to stay out of sight, eliminate turrets from a distance, and take advantage of the airboat for quick travel."
+          },
+          {
+              "title": "Ravenholm",
+              "description": "A dark, horror-themed level filled with headcrab zombies and eerie abandoned buildings.",
+              "objective": "Navigate through the town and find a way to escape.",
+              "strategy": "Use the Gravity Gun to launch saw blades and explosive barrels at zombies while avoiding fast headcrabs."
+          },
+          {
+              "title": "Ravenholm",
+              "description": "An eerie, horror-themed level where Gordon Freeman must face headcrab zombies while exploring the ruined town.",
+              "objective": "Survive the zombie infestation and find a way out of the haunted town.",
+              "strategy": "Use the Gravity Gun to throw saw blades and other explosives at zombies while staying alert for fast-moving headcrabs."
+          },
+          {
+              "title": "Ravenholm",
+              "description": "A terrifying level filled with headcrab zombies and unsettling environments, set in an abandoned town.",
+              "objective": "Survive the zombie onslaught and escape the town before it's too late.",
+              "strategy": "Take advantage of the Gravity Gun to throw saw blades and explosive barrels at zombies, and always be prepared for fast headcrabs."
+          }
+      
+      
+      ]
+    },
+    {
+      "game": "Red Dead Redemption 2",
+      "levels": [
+        
+          {
+              "title": "Bank Robbery in Saint Denis",
+              "description": "Arthur and the gang attempt a high-stakes bank heist in the bustling city of Saint Denis.",
+              "objective": "Steal the money and escape the Pinkertons.",
+              "strategy": "Stay in cover, use Dead Eye to take out guards efficiently, and follow the planned escape route carefully."
+          },
+          {
+              "title": "Bank Robbery in Saint Denis",
+              "description": "Arthur and the gang attempt a daring heist in the busy streets of Saint Denis, surrounded by law enforcement.",
+              "objective": "Grab the cash and escape the pursuing Pinkertons.",
+              "strategy": "Utilize cover, activate Dead Eye to neutralize guards, and stick to the planned route for the getaway."
+          },
+          {
+              "title": "Bank Robbery in Saint Denis",
+              "description": "Arthur and his gang plan a bold bank robbery in the heart of Saint Denis, with danger closing in.",
+              "objective": "Rob the bank and flee from the Pinkertons hot on their trail.",
+              "strategy": "Take cover, use Dead Eye to dispatch guards quickly, and make sure to follow the escape route to avoid capture."
+          },
+          {
+              "title": "Mount Hagen",
+              "description": "A snowy, final showdown between Arthur and Micah on the cold mountain peaks.",
+              "objective": "Defeat Micah and end the rivalry once and for all.",
+              "strategy": "Use cover in the harsh terrain, time your shots carefully, and prepare for a brutal close-quarters fight."
+          },
+          {
+              "title": "Mount Hagen",
+              "description": "A deadly confrontation between Arthur and Micah in the freezing cold of Mount Hagen.",
+              "objective": "Take down Micah and settle the score once and for all.",
+              "strategy": "Make use of cover on the snow-covered peaks, time your shots to maximize damage, and be ready for intense hand-to-hand combat."
+          },
+          {
+              "title": "Mount Hagen",
+              "description": "The final, bitter battle between Arthur and Micah takes place in the freezing heights of Mount Hagen.",
+              "objective": "Defeat Micah and put an end to the bitter feud.",
+              "strategy": "Use the harsh mountain terrain for cover, time your shots for maximum impact, and be prepared for a fierce melee battle."
+          }
+      
+      ]
+    },
+    {
+      "game": "Portal 2",
+      "levels": [
+        
+          {
+              "title": "The Cold Boot",
+              "description": "The first set of test chambers after waking up, introducing new mechanics like the Thermal Discouragement Beam.",
+              "objective": "Solve the puzzles and progress through the Aperture facility.",
+              "strategy": "Use reflection cubes to redirect lasers, and look for hidden panels to place portals in unexpected ways."
+          },
+          {
+              "title": "The Cold Boot",
+              "description": "Chell wakes up in the testing facility, facing new challenges including the Thermal Discouragement Beam.",
+              "objective": "Complete the puzzles and move forward through the Aperture Science testing chambers.",
+              "strategy": "Redirect lasers with cubes, and place portals in hidden spots to solve puzzles creatively."
+          },
+          {
+              "title": "The Cold Boot",
+              "description": "The initial series of chambers that introduce Chell to Aperture Science's testing environment, with new mechanics like the Thermal Discouragement Beam.",
+              "objective": "Progress through the chambers by solving puzzles and navigating the facility.",
+              "strategy": "Use cubes to reflect lasers, and look for spots to place portals to advance to the next test chamber."
+          },
+          {
+              "title": "The Escape",
+              "description": "Chell breaks free from testing and navigates the decaying facility while Wheatley guides her.",
+              "objective": "Escape Aperture Science before GLaDOS catches you.",
+              "strategy": "Use momentum-based puzzles, keep moving to avoid turrets, and listen for Wheatley's guidance."
+          },
+          {
+              "title": "The Escape",
+              "description": "Chell begins her journey to escape the crumbling Aperture facility, with Wheatley’s advice helping her evade GLaDOS’s detection.",
+              "objective": "Escape the facility before GLaDOS can catch up.",
+              "strategy": "Use momentum and velocity-based puzzles, avoid turrets, and follow Wheatley’s directions to find your way out."
+          },
+          {
+              "title": "The Escape",
+              "description": "Chell escapes from the testing facility with the help of Wheatley, navigating through the facility’s deteriorating infrastructure.",
+              "objective": "Escape Aperture Science and avoid capture by GLaDOS.",
+              "strategy": "Use momentum-based puzzles, avoid turrets, and pay close attention to Wheatley’s guidance for safe passage."
+          }
+      
+      
+      ]
+    },
+    {
+      "game": "The Witcher 3: Wild Hunt",
+      "levels": [
+        
+          {
+              "title": "Kaer Morhen",
+              "description": "Geralt trains Ciri at the ancient Witcher stronghold while preparing for the Wild Hunt's inevitable attack.",
+              "objective": "Defend Kaer Morhen and hold off the invasion.",
+              "strategy": "Use bombs and traps to control enemy movements and work with allies to manage large groups of foes."
+          },
+          {
+              "title": "Kaer Morhen",
+              "description": "At the old Witcher stronghold, Geralt and Ciri prepare for the impending Wild Hunt assault.",
+              "objective": "Defend Kaer Morhen against the Wild Hunt's invasion.",
+              "strategy": "Strategically place bombs, set traps, and coordinate with allies to fend off waves of enemies."
+          },
+          {
+              "title": "Kaer Morhen",
+              "description": "Geralt and Ciri must hold the ancient Witcher stronghold against the Wild Hunt’s forces.",
+              "objective": "Repel the invaders and protect Kaer Morhen.",
+              "strategy": "Use bombs, traps, and teamwork with allies to manage and eliminate large enemy groups."
+          },
+          {
+              "title": "The Battle of Kaer Trolde",
+              "description": "A large-scale battle against the Wild Hunt on the icy Skellige shores.",
+              "objective": "Defend the fortress and drive back the enemy forces.",
+              "strategy": "Use fire magic to counter frost enemies, work with Skellige warriors, and target enemy mages first."
+          },
+          {
+              "title": "The Battle of Kaer Trolde",
+              "description": "A fierce battle at Kaer Trolde on the frozen Skellige coast, where Geralt leads the charge against the Wild Hunt.",
+              "objective": "Protect the fortress and defeat the enemy forces.",
+              "strategy": "Utilize fire-based magic to counter ice-based enemies, cooperate with the Skellige warriors, and eliminate enemy spellcasters first."
+          },
+          {
+              "title": "The Battle of Kaer Trolde",
+              "description": "The Skellige shores turn into a battlefield as Geralt and his allies face off against the Wild Hunt’s forces.",
+              "objective": "Defend Kaer Trolde and push back the attacking enemies.",
+              "strategy": "Counter frost enemies with fire magic, work alongside Skellige warriors, and focus on taking down enemy mages early in the fight."
+          }
+      
+      
+      ]
+    },
+    {
+      "game": "Grand Theft Auto V",
+      "levels": 
+        [
+          {
+              "title": "The Jewel Store Job",
+              "description": "A heist mission where Michael, Franklin, and crew rob a high-end jewelry store in Los Santos.",
+              "objective": "Steal the jewelry and escape the police.",
+              "strategy": "Choose between a loud or stealthy approach, use Franklin’s special driving skill to escape quickly, and avoid roadblocks."
+          },
+          {
+              "title": "The Jewel Store Job",
+              "description": "Michael, Franklin, and the team execute a high-stakes robbery of a jewelry store in Los Santos.",
+              "objective": "Steal the jewelry and get away from the police pursuit.",
+              "strategy": "Opt for either a covert or aggressive approach, leverage Franklin’s driving ability to evade police, and navigate around roadblocks."
+          },
+          {
+              "title": "The Jewel Store Job",
+              "description": "Michael, Franklin, and the crew target a jewelry store in a high-risk robbery in Los Santos.",
+              "objective": "Steal the goods and make a clean getaway from the cops.",
+              "strategy": "Decide between a loud or silent approach, take advantage of Franklin’s driving skill for a swift escape, and avoid barricades."
+          },
+          {
+              "title": "The Big Score",
+              "description": "The ultimate heist where the team targets the Union Depository for a massive gold haul.",
+              "objective": "Steal millions in gold bars and evade law enforcement.",
+              "strategy": "Choose the right crew for the job, plan escape routes carefully, and be prepared for an intense shootout."
+          },
+          {
+              "title": "The Big Score",
+              "description": "The most dangerous heist in the game, with the crew robbing the Union Depository to steal gold bars.",
+              "objective": "Steal a fortune in gold and get away from the police.",
+              "strategy": "Assemble the perfect crew, plan escape routes thoroughly, and get ready for a shootout during the getaway."
+          },
+          {
+              "title": "The Big Score",
+              "description": "A high-stakes heist targeting the Union Depository, where the team steals a massive amount of gold.",
+              "objective": "Steal the gold bars and escape without being caught by law enforcement.",
+              "strategy": "Select the right crew members for the job, plan your escape route meticulously, and be prepared for an intense battle with law enforcement."
+          }
+      
+      
+      ]
+    },
+    {
+      "game": "Dark Souls III",
+      "levels": [
+        {
+            "title": "Lothric Castle",
+            "description": "The grand castle of Prince Lothric, filled with deadly knights and dragons.",
+            "objective": "Defeat the Twin Princes and progress towards the Kiln of the First Flame.",
+            "strategy": "Use lightning-based attacks against dragons, dodge the knights' fast attacks, and watch out for ambushes."
+        },
+        {
+            "title": "Lothric Castle",
+            "description": "The majestic yet perilous castle of Prince Lothric, brimming with formidable knights and ferocious dragons.",
+            "objective": "Defeat the Twin Princes and move closer to the Kiln of the First Flame.",
+            "strategy": "Utilize lightning attacks against dragons, dodge knights' swift strikes, and be wary of ambushes."
+        },
+        {
+            "title": "Lothric Castle",
+            "description": "Prince Lothric’s imposing castle filled with deadly knights, dragons, and other dangers.",
+            "objective": "Defeat the Twin Princes and prepare for the journey to the Kiln of the First Flame.",
+            "strategy": "Employ lightning-based attacks on dragons, evade the knights' quick strikes, and stay alert for surprise attacks."
+        },
+        {
+            "title": "The Ringed City",
+            "description": "A ruined, apocalyptic city at the end of time, guarded by deadly angels and mysterious knights.",
+            "objective": "Uncover the secrets of the Ringed City and defeat Slave Knight Gael.",
+            "strategy": "Use cover to avoid angel attacks, fight cautiously, and prepare for Gael's relentless and aggressive attack patterns."
+        },
+        {
+            "title": "The Ringed City",
+            "description": "An ancient, decaying city at the edge of time, protected by fierce angels and enigmatic knights.",
+            "objective": "Explore the Ringed City’s mysteries and confront Slave Knight Gael.",
+            "strategy": "Utilize cover to dodge angel strikes, engage enemies strategically, and ready yourself for Gael’s aggressive fighting style."
+        },
+        {
+            "title": "The Ringed City",
+            "description": "A desolate city at the end of time, under siege by terrifying angels and knights.",
+            "objective": "Unveil the secrets of the Ringed City and defeat the dangerous Slave Knight Gael.",
+            "strategy": "Hide behind cover to dodge angel attacks, take your time with fights, and prepare for Gael’s aggressive, relentless assault."
+        }
+    ]
+    
+    },
+    {
+      "game": "Final Fantasy VII",
+      "levels": [
+        {
+            "title": "Midgar",
+            "description": "The industrial city where Cloud and his friends fight against Shinra's oppressive regime.",
+            "objective": "Destroy the Mako Reactor and escape the city.",
+            "strategy": "Use elemental materia to exploit enemy weaknesses, and manage your party's health carefully."
+        },
+        {
+            "title": "Midgar",
+            "description": "A sprawling industrial city, home to Shinra’s power, where Cloud and his allies battle to free the people from its control.",
+            "objective": "Destroy the Mako Reactor and make your escape from the city.",
+            "strategy": "Equip elemental materia to exploit enemy weaknesses, keep a close eye on your party's health, and avoid being overwhelmed."
+        },
+        {
+            "title": "Midgar",
+            "description": "The oppressive industrial city where Cloud and his team fight against the tyrannical Shinra corporation.",
+            "objective": "Destroy the Mako Reactor and escape before reinforcements arrive.",
+            "strategy": "Take advantage of elemental materia to target enemy weaknesses and ensure your party is well-rested and prepared."
+        },
+        {
+            "title": "Nibelheim",
+            "description": "Cloud and Tifa’s hometown, now enveloped in darkness, holding secrets about Sephiroth and their past.",
+            "objective": "Uncover the truth behind Sephiroth and the Nibelheim incident.",
+            "strategy": "Search every corner for hidden clues, participate in side quests to improve characters, and ready yourself for a confrontation with Sephiroth."
+        },
+        {
+            "title": "Nibelheim",
+            "description": "The eerie hometown of Cloud and Tifa, now marked by mystery and the tragedy that befell it.",
+            "objective": "Discover the truth of Sephiroth’s actions and the Nibelheim incident.",
+            "strategy": "Thoroughly explore the area for important clues, take on optional side quests to deepen your understanding of the characters, and prepare for an eventual clash with Sephiroth."
+        },
+        {
+            "title": "Nibelheim",
+            "description": "Cloud and Tifa’s once peaceful hometown, now a place of intrigue and tragedy, where the truth of Sephiroth lies buried.",
+            "objective": "Unveil the secrets of the Nibelheim incident and confront Sephiroth.",
+            "strategy": "Examine the surroundings for hidden clues, engage in character-building side quests, and be prepared for a climactic encounter with Sephiroth."
+        }
+    ]
+    
+    },
+    {
+      "game": "Celeste",
+      "levels": [
+        {
+            "title": "The Summit",
+            "description": "The final challenge of Celeste Mountain, where Madeline must face her inner demons and conquer her fears.",
+            "objective": "Climb to the summit and overcome your emotional and physical obstacles.",
+            "strategy": "Use dashes strategically, time your jumps carefully, and stay patient during the more challenging platforming sections."
+        },
+        {
+            "title": "The Summit",
+            "description": "The final stretch to Celeste Mountain's peak, a grueling ascent filled with difficult platforming challenges.",
+            "objective": "Reach the summit and confront the emotional trials that await.",
+            "strategy": "Master the dash mechanic, practice precise jumps, and push through the most difficult sections with persistence."
+        },
+        {
+            "title": "The Summit",
+            "description": "The emotional and challenging journey to the top of Celeste Mountain, where the final test awaits.",
+            "objective": "Make your way to the summit and overcome the emotional weight of the climb.",
+            "strategy": "Perfect your timing with dashes, jumps, and be prepared for difficult platforming sequences that require quick reflexes."
+        },
+        {
+            "title": "The Core",
+            "description": "A dangerous and mechanical area, filled with traps, spikes, and high-stakes platforming sections.",
+            "objective": "Escape the core and survive the relentless hazards that stand in your way.",
+            "strategy": "Use momentum to maintain speed, dodge hazards, and master wall jumps and dashes to navigate through the difficult sections."
+        },
+        {
+            "title": "The Core",
+            "description": "An ominous and perilous mechanical environment, where every step counts.",
+            "objective": "Find a way to escape the core while avoiding the dangerous obstacles.",
+            "strategy": "Use wall jumps and dashes to your advantage, maintain a rhythm, and stay focused to avoid hazards."
+        },
+        {
+            "title": "The Core",
+            "description": "A dark and intimidating mechanical area filled with hazards and deadly obstacles.",
+            "objective": "Navigate through the core and find a safe escape route.",
+            "strategy": "Use your momentum to clear obstacles efficiently, time your movements, and use the wall jump and dash mechanics to stay safe."
+        }
+    ]
+    
+    },
+    {
+      "game": "The Last of Us",
+      "levels": [
+        {
+            "title": "The Outskirts",
+            "description": "Joel and Ellie travel through the deserted suburbs, evading Clickers and hostile humans on their way to safety.",
+            "objective": "Navigate to the Capitol Building without being detected by enemies.",
+            "strategy": "Stay hidden in the shadows, use crafting materials for distractions, and save ammo for tougher fights."
+        },
+        {
+            "title": "The Outskirts",
+            "description": "Joel and Ellie make their way through the desolate suburbs, carefully avoiding Clickers and dangerous survivors.",
+            "objective": "Reach the Capitol Building while evading enemy attention and conserving resources.",
+            "strategy": "Move quietly, use stealth to avoid confrontation, and craft useful items for distraction or defense."
+        },
+        {
+            "title": "The Outskirts",
+            "description": "The journey through abandoned suburban streets becomes perilous as Joel and Ellie dodge Clickers and armed survivors.",
+            "objective": "Find a way to the Capitol Building while keeping a low profile.",
+            "strategy": "Use stealth to slip past enemies, craft tools for traps and distractions, and preserve ammunition for later encounters."
+        },
+        {
+            "title": "The Firefly Lab",
+            "description": "A dramatic encounter with the Fireflies, where Joel faces difficult decisions that could change the course of his journey.",
+            "objective": "Make a crucial choice regarding Ellie's future and deal with the repercussions of your actions.",
+            "strategy": "Prepare for combat, make use of available cover, and brace yourself for the weight of the emotional decision at hand."
+        },
+        {
+            "title": "The Firefly Lab",
+            "description": "A tense standoff at the Firefly lab where Joel confronts the Fireflies and discovers the truth about Ellie's importance.",
+            "objective": "Decide Ellie's fate and deal with the consequences of your choices.",
+            "strategy": "Use cover for protection, stock up on supplies, and stay alert for any surprise attacks while handling the tough moral choices."
+        },
+        {
+            "title": "The Firefly Lab",
+            "description": "A charged and emotional moment at the Firefly Lab, where Joel is forced to make a life-changing decision about Ellie’s future.",
+            "objective": "Confront the Fireflies, make a decision about Ellie, and face the fallout of your actions.",
+            "strategy": "Use cover to survive the firefight, conserve ammo for the more intense moments, and prepare for the emotional toll of the decision."
+        }
+    ]
+    
+    },
+    {
+      "game": "Hollow Knight",
+      "levels": [
+        {
+            "title": "Greenpath",
+            "description": "A vibrant, overgrown forest teeming with dangerous creatures and hidden paths.",
+            "objective": "Venture through the area and defeat the elusive Hornet to progress.",
+            "strategy": "Use your nail to dispatch enemies, avoid their attacks with precise dodging, and search for hidden passages to gain new powers."
+        },
+        {
+            "title": "Greenpath",
+            "description": "A flourishing and treacherous landscape filled with hostile wildlife and ancient secrets.",
+            "objective": "Explore the area fully and defeat Hornet to continue your journey.",
+            "strategy": "Attack with your nail, dodge the attacks of aggressive enemies, and uncover hidden routes that may unlock new abilities."
+        },
+        {
+            "title": "Greenpath",
+            "description": "A dense, verdant forest filled with perilous creatures and ancient mysteries waiting to be uncovered.",
+            "objective": "Investigate the area and overcome Hornet to advance.",
+            "strategy": "Strike enemies with your nail, dodge incoming attacks, and keep an eye out for hidden areas to unlock new abilities."
+        },
+        {
+            "title": "The Abyss",
+            "description": "A dark, cryptic zone that holds secrets about the Hollow Knight and dangerous foes.",
+            "objective": "Discover the hidden truths of the Abyss and survive its perilous challenges.",
+            "strategy": "Use your skills strategically, manage your health cautiously, and prepare for tough encounters with powerful enemies."
+        },
+        {
+            "title": "The Abyss",
+            "description": "A haunting and shadowy region filled with the mysteries of the Hollow Knight and formidable enemies.",
+            "objective": "Unveil the secrets of the Abyss and overcome the threats lurking within.",
+            "strategy": "Utilize your abilities wisely, maintain your health, and be ready for intense boss battles that lie ahead."
+        },
+        {
+            "title": "The Abyss",
+            "description": "An eerie, dark underworld that holds clues about the Hollow Knight’s past and numerous powerful foes.",
+            "objective": "Delve into the Abyss to uncover its mysteries and face the dangers that await.",
+            "strategy": "Take care in managing your abilities, stay vigilant with your health, and prepare for challenging boss fights."
+        }
+    ]
+    
+    },
+    {
+      "game": "God of War (2018)",
+      "levels": [
+        {
+            "title": "The Stranger",
+            "description": "Kratos and Atreus encounter a mysterious figure in the woods, sparking an intense confrontation.",
+            "objective": "Defeat the Stranger and protect Atreus from harm.",
+            "strategy": "Use Atreus's arrows to distract the Stranger, time your dodges carefully, and chain devastating combos when possible."
+        },
+        {
+            "title": "The Stranger",
+            "description": "A powerful stranger appears, challenging Kratos and Atreus to a battle in the forest.",
+            "objective": "Defeat the Stranger and keep Atreus safe from harm.",
+            "strategy": "Utilize Atreus's arrows for ranged support, dodge the Stranger's attacks, and execute well-timed combos to break through their defenses."
+        },
+        {
+            "title": "The Stranger",
+            "description": "In the woods, Kratos and Atreus face a mysterious stranger in a brutal battle that tests their strength.",
+            "objective": "Overcome the Stranger and ensure Atreus's safety.",
+            "strategy": "Use Atreus's arrows to divert attention, avoid enemy attacks with well-timed dodges, and use Kratos's powerful combos to deal damage."
+        },
+        {
+            "title": "The Witch's Cave",
+            "description": "A treacherous cave full of dark creatures and puzzles, as Kratos and Atreus search for a way to save Faye.",
+            "objective": "Solve the puzzles and defeat any enemies that stand in your way.",
+            "strategy": "Use your axe to freeze enemies, solve environmental puzzles to progress, and cooperate with Atreus to defeat foes."
+        },
+        {
+            "title": "The Witch's Cave",
+            "description": "Kratos and Atreus venture through a dark and dangerous cave, filled with riddles and hostile enemies, as they try to save Faye.",
+            "objective": "Complete the puzzles and defeat any enemies guarding the way forward.",
+            "strategy": "Utilize your axe's freezing power, work together with Atreus to solve puzzles, and be prepared for ambushes by enemies."
+        },
+        {
+            "title": "The Witch's Cave",
+            "description": "A cave filled with dark forces and puzzles, as Kratos and Atreus search for a way to honor Faye's wishes.",
+            "objective": "Solve complex puzzles, battle creatures, and uncover the way forward.",
+            "strategy": "Freeze enemies with your axe, use teamwork to solve environmental puzzles, and stay alert for hostile creatures."
+        }
+    ]    
+    },
+    {
+      "game": "Persona 5",
+      "levels":[
+        {
+            "title": "The Metaverse",
+            "description": "A bizarre and shifting world where the Phantom Thieves enter the cognitive realms of their targets' minds.",
+            "objective": "Infiltrate the Palace, steal the treasure, and escape before being caught.",
+            "strategy": "Utilize stealth to bypass enemies, exploit enemy weaknesses in battle, and make the best use of your team’s abilities."
+        },
+        {
+            "title": "The Metaverse",
+            "description": "A distorted world within the minds of your targets, where the Phantom Thieves must steal treasures and expose corruption.",
+            "objective": "Steal the treasure from the Palace and make your way out undetected.",
+            "strategy": "Sneak past enemies, use elemental attacks to break down enemy defenses, and optimize your party’s abilities for each fight."
+        },
+        {
+            "title": "The Metaverse",
+            "description": "A dream-like realm where the Phantom Thieves must navigate dangerous mental landscapes to change the hearts of their targets.",
+            "objective": "Infiltrate the Palace, retrieve the treasure, and escape without alerting the Shadows.",
+            "strategy": "Employ stealth, identify enemy weaknesses, and carefully manage your team’s skills to ensure success."
+        },
+        {
+            "title": "Shido's Palace",
+            "description": "The final confrontation with Shido, where the Phantom Thieves must uncover his dark secrets and stop his manipulative plans.",
+            "objective": "Defeat Shido, expose his corruption, and change his heart to save the world.",
+            "strategy": "Prepare for a challenging fight, exploit elemental weaknesses, and coordinate with your team for powerful attacks and defenses."
+        },
+        {
+            "title": "Shido's Palace",
+            "description": "The palace where the Phantom Thieves confront the manipulative Shido, whose ambition threatens the very core of society.",
+            "objective": "Take down Shido and reveal his true intentions to the world.",
+            "strategy": "Prepare for tough boss fights, use elemental weaknesses to gain the upper hand, and synchronize your team’s strengths for maximum impact."
+        },
+        {
+            "title": "Shido's Palace",
+            "description": "The final Palace of Shido, a ruthless leader who has corrupted the system and needs to be stopped by the Phantom Thieves.",
+            "objective": "Expose Shido’s true nature and put an end to his reign of corruption.",
+            "strategy": "Use powerful elemental attacks, strategize with your team, and be ready for an intense final battle to overthrow Shido."
+        }
+    ]
+    
+    },
+    {
+      "game": "Overwatch",
+      "levels": [
+        {
+            "title": "King's Row",
+            "description": "A dark, futuristic version of London, where the battle for control takes place amidst ruined streets and high-tech facilities.",
+            "objective": "Capture the objective and escort the payload through the streets to victory.",
+            "strategy": "Take control of high ground, work closely with your team to defend key points, and remain flexible to counter the enemy's tactics."
+        },
+        {
+            "title": "King's Row",
+            "description": "A night-time setting in London, featuring narrow streets and fortified positions as teams fight for dominance in a dystopian future.",
+            "objective": "Secure objectives and safely escort the payload to its destination.",
+            "strategy": "Use the environment to your advantage, utilize verticality for better positioning, and adapt your strategies based on enemy movements."
+        },
+        {
+            "title": "King's Row",
+            "description": "An atmospheric, dystopian London map where teams must capture critical points and escort the payload through dangerous streets.",
+            "objective": "Control the objective and escort the payload through the city while defending against enemy attacks.",
+            "strategy": "Monitor the high ground for strategic advantage, communicate and coordinate with your team, and adjust your approach based on enemy tactics."
+        },
+        {
+            "title": "Numbani",
+            "description": "A futuristic, vibrant city filled with advanced technology, where teams engage in high-stakes battles to control a valuable payload.",
+            "objective": "Escort the payload through Numbani while defending against enemy assaults and setting up defensive positions.",
+            "strategy": "Utilize the map’s diverse routes to outflank enemies, work in sync with your team, and deploy ultimates when key opportunities arise."
+        },
+        {
+            "title": "Numbani",
+            "description": "A lively map set in a futuristic city where teams fight to push the payload through well-guarded streets and open spaces.",
+            "objective": "Escort the payload across Numbani, managing both offense and defense as the enemy attempts to stop you.",
+            "strategy": "Use surprise tactics with flanking routes, focus on team communication, and time ultimates effectively to break enemy defenses."
+        },
+        {
+            "title": "Numbani",
+            "description": "A futuristic and colorful city where teams engage in an all-out battle for control of the payload.",
+            "objective": "Escort the payload to its destination while defending against enemy forces.",
+            "strategy": "Explore flanking routes to catch enemies off guard, cooperate with your team to cover weak points, and use ultimates to turn the tide in intense moments."
+        }
+    ]    
+    }
+  ]
+  
+}
+
